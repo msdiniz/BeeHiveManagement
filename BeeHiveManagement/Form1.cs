@@ -41,5 +41,6 @@ namespace BeeHiveManagement
         {
             report.Text = queen.WorkTheNextShift();
         }
+       
     }
 }
